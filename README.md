@@ -7,5 +7,3 @@ I live in Madrid, Spain. Currently, I recently completed the DAM course at the [
 - 🌍 I live in Madrid, Spain
 - 🎓 Completed the DAM course at the European University of Madrid
 - 📚 Currently studying at 42 Madrid
-- 💻 Passionate about technology and software development
-
